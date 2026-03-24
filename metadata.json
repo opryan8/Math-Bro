@@ -1,0 +1,8 @@
+{
+  "name": "Math Bro",
+  "description": "An advanced math and geometry solver with a modern dashboard interface, multi-language support, and voice transcription.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
